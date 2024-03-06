@@ -1,3 +1,4 @@
+![github-contribution-grid-snake (1)](https://github.com/nurbek2107/nurbek2107/assets/161306161/7abcbc3e-5282-422f-b105-83f2d07bdd3b)
 <h1 align="center">Hi 👋, I'm Nurbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
@@ -24,4 +25,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nurbek2107"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nurbek2107" /></a><a href="https://ko-fi.com/nurbek2107"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="nurbek2107" /></a></p><br><br>
 
-![github-contribution-grid-snake (1)](https://github.com/nurbek2107/nurbek2107/assets/161306161/7abcbc3e-5282-422f-b105-83f2d07bdd3b)
+
