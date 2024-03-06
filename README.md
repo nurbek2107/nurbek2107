@@ -1,16 +1,15 @@
 <!-- ###### HEAD ##### -->
 
 
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hornet-🐝-Develoeper&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Hornet-Developer" alt="Hornet-Developer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Frontend-💻-Develoeper&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-.　　　　　　　　　　　　　.　　　ﾟ　  　　　.　　　　　　　　　　　　　.                                    .                .  
+ ✦　　　　　　　　　　　　　.　　　ﾟ　  　　　 ✦　　　　　　　　　　　　　.                                    .               ✦  
 
-　　　　　　,　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　.     "                     *　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　. 　　　　　　　　　　<p align="center">
-  <a href="https://github.com/secret-star1202"><img src="https://readme-typing-svg.herokuapp.com/?lines=🔗%20Software%20Engineer;👨‍💻%20Front-end%20Web%20Developer;🌐%20Nurbek%20Abduaxatov%20;📲%20Android%20App%20Developer;🎨%20UI/UX%20%20Design;🤝%207%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+　　　　　　 ✦　　　　　　　.　　　　　　    　　　　 　　　　　　　　　　　　　　　　　　 ☀️ 　　　　　　.     "                     *　　　　　　　　　　　　    　      　　　　　        　　　　　　　　　　　　　✦　　　　　　　　　　<p align="center">
+  <a href="https://github.com/secret-star1202"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Nurbek%20Abduaxatov%20;🔗%20Software%20Engineer;👨‍💻%20Front-end%20Web%20Developer;💻%20Backend%20Developer;👨‍💻%20UI/AI%20%20Design;🤝%207%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　.　　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　* .　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　*　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　.
-
+　˚　　　　　　　　　　　　　　　　　　　　　ﾟ　　　　　✦　　　　　　　　　　　　　　. 　　 　 🌎 ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ‍ ,　 　　　　　　　　　　　　　　        ✦　　　　　 　　　　　　　　　　　　　　.　　　　　　　　　　 ✦ 　　　　   　 　　　˚　　　　　　　　　　　　　　✦　　　　　　   　　　　　　　　　　　　　　　.　　　　　　　　　　　　　　✦
 
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 
