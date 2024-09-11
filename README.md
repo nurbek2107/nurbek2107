@@ -25,6 +25,5 @@
 
 <!-- ###### END OF My Github Stats  ##### -->
 
-<!-- ###### SOCIAL MEDIA LINKS ##### -->
 
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
