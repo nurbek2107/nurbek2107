@@ -22,7 +22,4 @@
 <a href="http://www.github.com/nurbek2107"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurbek2107&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
 </div>
-
-
-
 <img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
