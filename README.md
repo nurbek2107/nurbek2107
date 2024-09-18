@@ -1,8 +1,12 @@
 <img width=100% title="nurbek2107" alt="nurbek2107" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Frontend-💻-Developer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-　　　　　　　<p align="center">
+　　　　　　  <p align="center">
   <a href="https://github.com/nurbek2107"><img src="https://readme-typing-svg.herokuapp.com/?lines=🌐%20Nurbek%20Abduaxatov%20;🔗%20Software%20Engineer;👨‍💻%20Front-end%20Web%20Developer;&font=Pacifico&center=true&width=650&height=120&color=58a6f5&vCenter=true&size=45%22"></a>
 </p>
+
+
+
+
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"  align="left">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px"> <br>
